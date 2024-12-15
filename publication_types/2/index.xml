@@ -5,7 +5,7 @@
     <link>https://0cooper.github.io/publication_types/2/</link>
       <atom:link href="https://0cooper.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://0cooper.github.io/img/icon-192.png</url>
       <title>2</title>
@@ -13,7 +13,25 @@
     </image>
     
     <item>
-      <title>Searching Far and Long. I. Pilot ALMA 2 mm Follow-up of Bright Dusty Galaxies as a Redshift Filter</title>
+      <title>RUBIES: JWST/NIRSpec resolves evolutionary phases of dusty star-forming galaxies at  z∼2</title>
+      <link>https://0cooper.github.io/publication/rubies/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://0cooper.github.io/publication/rubies/</guid>
+      <description>&lt;p&gt;The dearth of high quality spectroscopy of dusty star-forming galaxies (DSFGs) &amp;ndash; the main drivers of the assembly of dust and stellar mass at the peak of activity in the Universe &amp;ndash; greatly hinders our ability to interpret their physical processes and evolutionary pathways. We present JWST/NIRSpec observations from RUBIES of four submillimeter-selected, ALMA-detected DSFGs at cosmic noon, z∼2.3−2.7. While photometry uniformly suggests vigorous ongoing star formation for the entire sample in line with canonical DSFGs, the spectra differ: one source has spectroscopic evidence of an evolved stellar population, indicating a recent transition to a post-starburst phase, while the remainder show strong spectroscopic signatures of ongoing starbursts. All four galaxies are infrared-luminous (log10LIR/L⊙ &amp;gt;12.4), massive (log10M⋆/M⊙ &amp;gt;11), and very dust-obscured (AV∼3−4 ABmag). Leveraging detections of multiple Balmer and Paschen lines, we derive an optical attenuation curve consistent with Calzetti overall, yet an optical extinction ratio RV∼2.5, potentially indicating smaller dust grains or differences in star-dust geometry. This case study provides some of the first detailed spectroscopic evidence that the DSFGs encompass a heterogeneous sample spanning a range of star formation properties and evolutionary stages, and illustrates the advantages of synergistic JWST and ALMA analysis of DSFGs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Web Epoch of Reionization Lyman-alpha Survey (WERLS). I. MOSFIRE Spectroscopy of z ∼ 7–8 Lyman-alpha Emitters</title>
+      <link>https://0cooper.github.io/publication/werls/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://0cooper.github.io/publication/werls/</guid>
+      <description>&lt;p&gt;We present the first results from the Web Epoch of Reionization Lyα Survey (WERLS), a spectroscopic survey of Lyα emission using Keck I/MOSFIRE and LRIS. WERLS targets bright (J &amp;lt; 26) galaxy candidates with photometric redshifts of 5.5 ≲ z ≲ 8 selected from pre-JWST imaging embedded in the Epoch of Reionization (EoR) within three JWST deep fields: CEERS, PRIMER, and COSMOS-Web. Here, we report 11 z ∼ 7–8 Lyα emitters (LAEs; three secure and eight tentative candidates) detected in the first five nights of WERLS MOSFIRE data. We estimate our observed LAE yield is ∼13%, which is broadly consistent with expectations assuming some loss from redshift uncertainty, contamination from sky OH lines, and that the Universe is approximately half-ionized at this epoch, whereby observable Lyα emission is unlikely for galaxies embedded in a neutral intergalactic medium. Our targets are selected to be UV-bright, and span a range of absolute UV magnitudes with −23.1 &amp;lt; MUV &amp;lt; −19.8. With two LAEs detected at z = 7.68, we also consider the possibility of an ionized bubble at this redshift. Future synergistic Keck+JWST efforts will provide a powerful tool for pinpointing beacons of reionization and mapping the large-scale distribution of mass relative to the ionization state of the Universe.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Searching Far and Long. I. Pilot ALMA 2 mm Follow-up of Bright Dusty Galaxies as a Redshift Filter TEST</title>
       <link>https://0cooper.github.io/publication/2mm-ssa22/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://0cooper.github.io/publication/2mm-ssa22/</guid>
@@ -26,7 +44,30 @@
       <link>https://0cooper.github.io/publication/cooper-curriculum-2019/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://0cooper.github.io/publication/cooper-curriculum-2019/</guid>
-      <description></description>
+      <description>&lt;p&gt;Conservation scientists need to advance climate literacy so that
+people understand how climate affects all of life, acquire the skills
+to communicate about climate change, and become aware of ways to
+increase local resiliency. We examined syllabus content for 74 general
+climate change courses taught at the undergraduate college‐level to
+investigate the scope and extent to which these climate change courses
+include key topics to advance climate literacy. By analyzing the
+textual data, we discovered most courses had a strong focus on
+biogeophysical science and only 8.8 and 9.4% of the terms that
+occurred in this sample were connected to climate change solutions and
+communication, respectively. The fine category “Organisms,” which
+includes terms for specific animals such as “jellyfish” and “urchin”
+and related terms like “species”, was only observed in 26% of the
+syllabi; and the term “biodiversity” was mentioned seven times,
+“extinction” four times, and “animal” was mentioned two times across
+all 74 syllabi. This reveals a potential gap in addressing the impacts
+of climate change on biodiversity, and the role of some species in
+regulating climate. We recommend educators include a broader array of
+inter‐disciplinary topics, place‐based information, communication
+strategies, and mitigation and adaptation solutions to bridge the gap
+between climate science, literacy, and action.&lt;/p&gt;
+&lt;p&gt;Check out my blog post summary of the article
+&lt;a href=&#34;https://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=31186&amp;amp;sharing=yes&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

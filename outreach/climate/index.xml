@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Climate Change | Olivia Cooper</title>
+    <title>Climate Change Literacy | Olivia Cooper</title>
     <link>https://0cooper.github.io/outreach/climate/</link>
       <atom:link href="https://0cooper.github.io/outreach/climate/index.xml" rel="self" type="application/rss+xml" />
-    <description>Climate Change</description>
+    <description>Climate Change Literacy</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://0cooper.github.io/img/icon-192.png</url>
-      <title>Climate Change</title>
+      <title>Climate Change Literacy</title>
       <link>https://0cooper.github.io/outreach/climate/</link>
     </image>
     

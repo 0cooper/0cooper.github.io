@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Public Talks &amp; Media Appearances | Olivia Cooper</title>
+    <title>Public talks &amp; media appearances | Olivia Cooper</title>
     <link>https://0cooper.github.io/outreach/talks/</link>
       <atom:link href="https://0cooper.github.io/outreach/talks/index.xml" rel="self" type="application/rss+xml" />
-    <description>Public Talks &amp; Media Appearances</description>
+    <description>Public talks &amp; media appearances</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>https://0cooper.github.io/img/icon-192.png</url>
-      <title>Public Talks &amp; Media Appearances</title>
+      <title>Public talks &amp; media appearances</title>
       <link>https://0cooper.github.io/outreach/talks/</link>
     </image>
     
